@@ -1,15 +1,15 @@
 {
-  "main.css": "/nivata/static/css/main.49a8bb5b.chunk.css",
-  "main.js": "/nivata/static/js/main.dc992ab9.chunk.js",
-  "main.js.map": "/nivata/static/js/main.dc992ab9.chunk.js.map",
+  "main.css": "/nivata/static/css/main.3c22dc7d.chunk.css",
+  "main.js": "/nivata/static/js/main.423abfce.chunk.js",
+  "main.js.map": "/nivata/static/js/main.423abfce.chunk.js.map",
   "static/css/1.d0cb113b.chunk.css": "/nivata/static/css/1.d0cb113b.chunk.css",
   "static/js/1.b6fe1276.chunk.js": "/nivata/static/js/1.b6fe1276.chunk.js",
   "static/js/1.b6fe1276.chunk.js.map": "/nivata/static/js/1.b6fe1276.chunk.js.map",
   "runtime~main.js": "/nivata/static/js/runtime~main.4887231e.js",
   "runtime~main.js.map": "/nivata/static/js/runtime~main.4887231e.js.map",
+  "static/css/main.3c22dc7d.chunk.css.map": "/nivata/static/css/main.3c22dc7d.chunk.css.map",
   "static/css/1.d0cb113b.chunk.css.map": "/nivata/static/css/1.d0cb113b.chunk.css.map",
-  "static/css/main.49a8bb5b.chunk.css.map": "/nivata/static/css/main.49a8bb5b.chunk.css.map",
   "index.html": "/nivata/index.html",
-  "precache-manifest.495d107c5409dcd1ffb2527fe4d15b50.js": "/nivata/precache-manifest.495d107c5409dcd1ffb2527fe4d15b50.js",
+  "precache-manifest.5a1d966251594742263309e096239b54.js": "/nivata/precache-manifest.5a1d966251594742263309e096239b54.js",
   "service-worker.js": "/nivata/service-worker.js"
 }
