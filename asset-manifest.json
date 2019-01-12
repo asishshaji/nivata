@@ -1,7 +1,7 @@
 {
   "main.css": "/nivata/static/css/main.4ac3e874.chunk.css",
-  "main.js": "/nivata/static/js/main.1440b71b.chunk.js",
-  "main.js.map": "/nivata/static/js/main.1440b71b.chunk.js.map",
+  "main.js": "/nivata/static/js/main.5af1c897.chunk.js",
+  "main.js.map": "/nivata/static/js/main.5af1c897.chunk.js.map",
   "static/css/1.24c5bfbc.chunk.css": "/nivata/static/css/1.24c5bfbc.chunk.css",
   "static/js/1.ada2a9d7.chunk.js": "/nivata/static/js/1.ada2a9d7.chunk.js",
   "static/js/1.ada2a9d7.chunk.js.map": "/nivata/static/js/1.ada2a9d7.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/404.png": "/nivata/static/media/404.ffadd160.png",
   "static/css/main.4ac3e874.chunk.css.map": "/nivata/static/css/main.4ac3e874.chunk.css.map",
   "index.html": "/nivata/index.html",
-  "precache-manifest.b819c7e6041ee9b52e21b271130bea9e.js": "/nivata/precache-manifest.b819c7e6041ee9b52e21b271130bea9e.js",
+  "precache-manifest.179a81f2fe1078531a0af01aec7f9f0c.js": "/nivata/precache-manifest.179a81f2fe1078531a0af01aec7f9f0c.js",
   "service-worker.js": "/nivata/service-worker.js"
 }
