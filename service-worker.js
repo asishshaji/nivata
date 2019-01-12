@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nivata/precache-manifest.650c3150e14b59d3257963bfea7df870.js"
+  "/nivata/precache-manifest.b819c7e6041ee9b52e21b271130bea9e.js"
 );
 
 workbox.clientsClaim();

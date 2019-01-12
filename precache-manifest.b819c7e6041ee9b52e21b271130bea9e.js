@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/nivata/static/js/runtime~main.4887231e.js"
   },
   {
-    "revision": "9e4145c084c1e8aa830e",
-    "url": "/nivata/static/js/main.9e4145c0.chunk.js"
+    "revision": "1440b71b5f044eb5ea56",
+    "url": "/nivata/static/js/main.1440b71b.chunk.js"
   },
   {
     "revision": "ada2a9d7c8b0c69a3e30",
     "url": "/nivata/static/js/1.ada2a9d7.chunk.js"
   },
   {
-    "revision": "9e4145c084c1e8aa830e",
+    "revision": "1440b71b5f044eb5ea56",
     "url": "/nivata/static/css/main.4ac3e874.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/nivata/static/css/1.24c5bfbc.chunk.css"
   },
   {
-    "revision": "a95f14f84168c44fd1e3b645eed75997",
+    "revision": "26e69a1a7fdb6a01f7bd6e7e017c14b4",
     "url": "/nivata/index.html"
   }
 ];
