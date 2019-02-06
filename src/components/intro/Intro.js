@@ -1,7 +1,7 @@
 import React from 'react'
 import './intro.css';
-
-
+import {  Avatar } from 'antd';
+import logo from '../../static/logo.png'
 
 const Intro = () => {
   return (
@@ -9,11 +9,11 @@ const Intro = () => {
     <header>
       <div className='container'>
 
-        {/* <Avatar
+         <Avatar
           className='avatar'
-          size="small"
+          size={124}
           shape="circle"
-          src='https://i.imgur.com/4d3nOHP.jpg'/> */}
+          src={logo}/>
         
         <h1 className='intro-name'>Nivāta InfoSec</h1>
        
@@ -21,8 +21,7 @@ const Intro = () => {
     
         </p>
           <p className="about">
-            Voluptate cupidatat quis elit voluptate. Laboris aliquip laborum fugiat laborum est commodo aute incididunt nulla. Minim in cillum laborum culpa cupidatat veniam aute anim velit commodo commodo adipisicing tempor. Proident veniam eu cupidatat irure id eiusmod in mollit esse cillum amet laborum non ipsum.
-          </p>
+          Nivata Infosec is a start up founded by a group of passionate students. We are small and nimble as a company.Cybersecurity is what we do. In this world everything is connected, security is everything, more data, more users and more services, there's more to protect. It's time to put cybersecurity above everything. Nivata Infosec is a team passionate about security and technology who believe security is a shield against attacks and we use our knowledge and expertise to protect the web, network , app solutions and real worldsecurity holes.All your security needs under one roof.     </p>
           <p className='expl'>That sure explains a lot!</p>
       </div>
 

@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { List,Card,Icon } from 'antd';
 import './users.css';
+import sanjay from '../../static/sanjay.jpg'
 
 
 const { Meta } = Card;
@@ -16,7 +17,7 @@ const data = [
     },
     {
       name: 'Sanjay KS',
-      imageurl: 'https://pps.whatsapp.net/v/t61.11540-24/49037926_348831582597973_41409403198373888_n.jpg?oe=5C3AE04D&oh=b7e24dfc716182e4167391f6e5c1976b',
+      imageurl: 'https://imgur.com/WAiLcSl.jpg',
       position:'CMO',
       description:'',
       linkedin:'',
@@ -35,6 +36,7 @@ const data = [
 
 export default class componentName extends Component {
   render() {
+    console.log(sanjay)
     return (
       <div>
           <h1 className="team"><Icon type="team" /> Team</h1>
@@ -66,7 +68,8 @@ export default class componentName extends Component {
                         <Meta
                         style
                         ={{
-                        fontFamily: 'Space Mono'
+                    
+                        fontSize: '14'
                             }}
                         title={user.name}
                         description={user.description}

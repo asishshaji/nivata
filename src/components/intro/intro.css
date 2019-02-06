@@ -10,8 +10,8 @@
 }
 
 .avatar {
-    width: 20px !important;
-    height: 20px !important;
+    width: 221px !important;
+    height: 160px !important;
 }
 
 .intro-name {
@@ -68,8 +68,8 @@
     }
 
     .avatar {
-        width: 40px !important;
-        height: 40px !important;
+        width: 100px !important;
+        height: 72px !important;
     }
 
 }
